@@ -1,2 +1,2 @@
-# Internet---101
-My first experiments with internet technology. 
+# Internet 101
+My first experiments with web technology. 
